@@ -22,7 +22,7 @@ Write a Map-Reduce program to filter out the invalid records.
 
 ### OUTPUT-
 It showed the result as -
-Akai      Decent
+Akai      Decent /n
 Lava      Attention
 Lava      Attention
 Lava      Attention
