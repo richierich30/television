@@ -22,6 +22,7 @@ Write a Map-Reduce program to filter out the invalid records.
 
 ### OUTPUT-
 It showed the result as -
+
 Akai      Decent
 
 Lava      Attention
@@ -73,7 +74,8 @@ Write a Map-Reduce program to calculate the total units sold for each Company.
 12. I checked the result stored in part-r-00000 using "hadoop dfs -cat /ou5/part-r-00000".
 
 ### OUTPUT-
-It showed the result as- 
+It showed the result as-
+
 Akai        1
 
 Lava        3
@@ -103,7 +105,8 @@ Write a Map-Reduce program to calculate the total units sold in each state for O
 12. I checked the result stored in part-r-00000 using "hadoop dfs -cat /ou55/part-r-00000".
 
 ### OUTPUT-
-It showed the result as- 
+It showed the result as-
+
 Uttar Pradesh       1
 
 Uttar Pradesh       1
