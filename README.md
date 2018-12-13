@@ -27,18 +27,31 @@ Akai      Decent
 Lava      Attention
 
 Lava      Attention
+
 Lava      Attention
+
 Onida     Decent
+
 Onida     Lucent
+
 Onida     Lucent
+
 Samsung   Super
+
 Samsung   Super
+
 Samsung   Super
+
 Samsung   Decent
+
 Samsung   Optima
+
 Samsung   Optima
+
 Samsung   Optima
+
 Zen       Super
+
 Zen       Super
  
 
@@ -62,9 +75,13 @@ Write a Map-Reduce program to calculate the total units sold for each Company.
 ### OUTPUT-
 It showed the result as- 
 Akai        1
+
 Lava        3
+
 Onida       3
+
 Samsung     7
+
 Zen         2
  
 
@@ -88,6 +105,8 @@ Write a Map-Reduce program to calculate the total units sold in each state for O
 ### OUTPUT-
 It showed the result as- 
 Uttar Pradesh       1
+
 Uttar Pradesh       1
+
 Uttar Pradesh       1
  
